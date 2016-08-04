@@ -1,3 +1,17 @@
-# BigCat
-此框架是我最近准备着手的一个自主开源项目。
-希望能针对PHP5.5及以上版本的支持下创建一个敏捷开发框架，欢迎各路大神添加和修改。
+# PHPTinders
+
+PHPTinders is a web application framework with php7.
+
+PHPTinders is powerful and smarty.
+
+## Contributing
+
+Mainly based on native PHP
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within PHPTinders, please send an e-mail to shironghui at tris_10@sina.com. All security vulnerabilities will be promptly addressed.
+
+## License
+
+The PHPTinders is open-sourced software.
